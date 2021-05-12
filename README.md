@@ -20,8 +20,10 @@ GROUP NO : 9
  
  1.**Google search results first url** :In this milestone a gui has been designed in such a way that it takes a query as an input and displays the   first link of the query searched.Further in the terminal their are headlines being printed of the top searches related to that keyword.
 
-     https://user-images.githubusercontent.com/78691639/117991368-99e13080-b35b-11eb-8849-f68332c6df97.mp4
+  https://user-images.githubusercontent.com/78691639/117997265-7371c400-b360-11eb-8e4f-9a6e96e10556.mp4
 
+
+    
 2. **WEBSITES SCRAPING:** 
     -LinkedIn Scraping:this website is really very hard to scrape . i tried a lo but the only thing i was able to scrape was the number of jobs available and the job title . Also the images were scraped of the official website.
     
@@ -32,6 +34,7 @@ GROUP NO : 9
    https://user-images.githubusercontent.com/78691639/117993789-aa92a600-b35d-11eb-9a9b-7ba1f849cd8a.mp4
  
  -Compare:top searches of a job entered have been compared!
+   
    https://user-images.githubusercontent.com/78691639/117994339-183ed200-b35e-11eb-9107-c845636a6f13.mp4
    
   **PROBLEMS FACED**
