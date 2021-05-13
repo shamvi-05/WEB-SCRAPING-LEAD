@@ -11,9 +11,9 @@ GROUP NO : 9
     -->More detailed scraping has been done in the terminal displaying top(15-20) searches of the required job.
 
 **TECH STACK:**
- -Language : python
- -Package to scrape data : beautifulsoup
- -GUI : tkinter
+   -Language : python
+   -Package to scrape data : beautifulsoup
+   -GUI : tkinter
  
  **DESCRIPTION**(About Project)
  My project has been divided into three small parts
@@ -25,13 +25,18 @@ GROUP NO : 9
 
     
 2. **WEBSITES SCRAPING:** 
-    -LinkedIn Scraping:this website is really very hard to scrape . i tried a lo but the only thing i was able to scrape was the number of jobs available and the job title . Also the images were scraped of the official website.
+    -LinkedIn Scraping:this website is really very hard to scrape . I tried a lot but the only thing I was able to scrape was the number of jobs available and the job title . Also the images were scraped of the official website.
     
     https://user-images.githubusercontent.com/78691639/117993195-23453280-b35d-11eb-9988-c2beb20fbe49.mp4
 
-   -Indeed scraping and Shine.com scraping:Results prints the first search in the Gui And the other searches are printed in the terminal for whic a button is provide but you need to type in the searches again.
+   -Indeed scraping and Shine.com scraping:Results prints the first search in the Gui And the other searches are printed in the terminal for which a button is provided but you need to type in the searches again.(This is both for Indeed and Shine)
 
    https://user-images.githubusercontent.com/78691639/117993789-aa92a600-b35d-11eb-9a9b-7ba1f849cd8a.mp4
+   
+   
+   https://user-images.githubusercontent.com/78691639/118136217-7ed8f400-b421-11eb-9dc8-34029c2eea42.mp4
+
+
  
  -Compare:top searches of a job entered have been compared!
    
